@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bekane.github.io/perso/fr/categories/</loc>
+    <loc>https://bekane.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/categories/"
+                href="https://bekane.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/categories/"
+                href="https://bekane.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/fr/</loc>
+    <loc>https://bekane.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/"
+                href="https://bekane.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/"
+                href="https://bekane.github.io/fr/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/fr/series/</loc>
+    <loc>https://bekane.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/series/"
+                href="https://bekane.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/series/"
+                href="https://bekane.github.io/fr/series/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/fr/tags/</loc>
+    <loc>https://bekane.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/tags/"
+                href="https://bekane.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/tags/"
+                href="https://bekane.github.io/fr/tags/"
                 />
   </url>
 </urlset>

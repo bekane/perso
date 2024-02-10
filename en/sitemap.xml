@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bekane.github.io/perso/</loc>
+    <loc>https://bekane.github.io/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/"
+                href="https://bekane.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/"
+                href="https://bekane.github.io/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/post/rich-content/</loc>
+    <loc>https://bekane.github.io/post/rich-content/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/</loc>
+    <loc>https://bekane.github.io/post/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/bundle/</loc>
+    <loc>https://bekane.github.io/post/bundle/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/map/</loc>
+    <loc>https://bekane.github.io/post/map/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/notices/</loc>
+    <loc>https://bekane.github.io/post/notices/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/archives/</loc>
+    <loc>https://bekane.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/markdown-syntax/</loc>
+    <loc>https://bekane.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/placeholder-text/</loc>
+    <loc>https://bekane.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/math-typesetting/</loc>
+    <loc>https://bekane.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/post/emoji-support/</loc>
+    <loc>https://bekane.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/about/</loc>
+    <loc>https://bekane.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bekane.github.io/perso/categories/</loc>
+    <loc>https://bekane.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/categories/"
+                href="https://bekane.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/categories/"
+                href="https://bekane.github.io/categories/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/search/</loc>
+    <loc>https://bekane.github.io/search/</loc>
   </url><url>
-    <loc>https://bekane.github.io/perso/series/</loc>
+    <loc>https://bekane.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/series/"
+                href="https://bekane.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/series/"
+                href="https://bekane.github.io/series/"
                 />
   </url><url>
-    <loc>https://bekane.github.io/perso/tags/</loc>
+    <loc>https://bekane.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bekane.github.io/perso/fr/tags/"
+                href="https://bekane.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bekane.github.io/perso/tags/"
+                href="https://bekane.github.io/tags/"
                 />
   </url>
 </urlset>
