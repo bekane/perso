@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bekane.github.io/perso/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-09T19:16:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,27 @@
                 hreflang="en"
                 href="https://bekane.github.io/perso/"
                 />
+  </url><url>
+    <loc>https://bekane.github.io/perso/teachings/</loc>
+    <lastmod>2024-02-09T19:16:34+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/teachings/teachings/</loc>
+    <lastmod>2024-02-09T19:16:34+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/bio/</loc>
+    <lastmod>2024-02-09T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/bio/bio/</loc>
+    <lastmod>2024-02-09T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/news/</loc>
+    <lastmod>2024-02-09T14:03:12+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/projets/</loc>
+    <lastmod>2024-02-09T13:37:07+01:00</lastmod>
+  </url><url>
+    <loc>https://bekane.github.io/perso/publications/</loc>
+    <lastmod>2024-02-09T13:25:05+01:00</lastmod>
   </url><url>
     <loc>https://bekane.github.io/perso/post/rich-content/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
